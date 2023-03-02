@@ -1,0 +1,8 @@
+[submodule "first"]
+	path = first
+	url = https://github.com/NeoUKR/Demo-Template-Spring-Module-First.git
+	branch = main
+[submodule "second"]
+	path = second
+	url = https://github.com/NeoUKR/Demo-Template-Spring-Module-Second.git
+	branch = main
